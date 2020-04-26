@@ -14,3 +14,13 @@ considerably. Reduced complexity is also a feature of the proposed inverter. A s
 The first novel module focuses on producing the same performance and output characteristics as the base model, while reducing the number of components and power losses. The second novel module aims at producing nearly the same output, but also drastically reducing the number of components, thereby decreasing the cost of the inverter. It also thus increases its reliability. 
 
 The circuits are verified under resistive loading conditions using MATLAB Simulink.
+
+# Output
+
+Novel Topology 1 (19 Level):
+
+![nt1](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/novel_topology_1_output.jpg)
+
+Novel Topology 2 (17 Level):
+
+![nt2](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/novel_topology_2_output.jpg)
