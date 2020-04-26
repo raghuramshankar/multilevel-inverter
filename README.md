@@ -25,8 +25,6 @@ Novel Topology 2 (17 Level):
 
 ![nt2](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/novel_topology_2_output.jpg)
 
-PDPWM:
-
-Novel Topology 2 (17 Level):
+PDPWM Reference and Carrier Waveforms:
 
 ![pdpwm](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/pdpwm.png)
