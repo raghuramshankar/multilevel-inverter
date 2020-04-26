@@ -24,3 +24,9 @@ Novel Topology 1 (19 Level):
 Novel Topology 2 (17 Level):
 
 ![nt2](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/novel_topology_2_output.jpg)
+
+PDPWM:
+
+Novel Topology 2 (17 Level):
+
+![pdpwm](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/pdpwm.jpg)
