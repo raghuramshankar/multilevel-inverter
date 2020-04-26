@@ -29,4 +29,4 @@ PDPWM:
 
 Novel Topology 2 (17 Level):
 
-![pdpwm](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/pdpwm.jpg)
+![pdpwm](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/pdpwm.png)
