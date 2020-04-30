@@ -19,11 +19,11 @@ The circuits are verified under resistive loading conditions using MATLAB Simuli
 
 Novel Topology 1 (19 Level):
 
-![nt1-circuit](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_1_circuit.jpg)
+![nt1-circuit](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_1_circuit.png)
 
 Novel Topology 2 (17 Level):
 
-![nt2-circuit](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_2_circuit.jpg)
+![nt2-circuit](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_2_circuit.png)
 
 # PWM Waveforms
 
