@@ -15,16 +15,28 @@ The first novel module focuses on producing the same performance and output char
 
 The circuits are verified under resistive loading conditions using MATLAB Simulink.
 
+# Circuit
+
+Novel Topology 1 (19 Level):
+
+![nt1-circuit](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_1_circuit.jpg)
+
+Novel Topology 2 (17 Level):
+
+![nt2-circuit](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_2_circuit.jpg)
+
+# PWM Waveforms
+
+PDPWM Reference and Carrier Waveforms:
+
+![pdpwm](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/pdpwm.png)
+
 # Output
 
 Novel Topology 1 (19 Level):
 
-![nt1](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/novel_topology_1_output.jpg)
+![nt1-output](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_1_output.jpg)
 
 Novel Topology 2 (17 Level):
 
-![nt2](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/novel_topology_2_output.jpg)
-
-PDPWM Reference and Carrier Waveforms:
-
-![pdpwm](https://github.com/raghuramshankar/multilevel-inverter/blob/master/simulink/pdpwm.png)
+![nt2-output](https://github.com/raghuramshankar/multilevel-inverter/blob/master/images/novel_topology_2_output.jpg)
